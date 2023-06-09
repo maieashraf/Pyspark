@@ -1,2 +1,2 @@
 # Pyspark
-analyziz data using pyspark
+analysis data using pyspark
